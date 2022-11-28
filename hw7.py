@@ -1,4 +1,3 @@
-
 def binary_search(target, lst):
     l = 0
     r = len(lst)
